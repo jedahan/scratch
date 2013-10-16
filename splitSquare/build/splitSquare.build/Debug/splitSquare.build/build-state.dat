@@ -1,0 +1,2282 @@
+TsplitSquare
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/bin/splitSquareDebug.app/Contents/Info.plist /Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/openFrameworks-Info.plist
+cCompileC build/splitSquare.build/Debug/splitSquare.build/Objects-normal/i386/splitSquare.o /Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/src/splitSquare.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/splitSquare.build/Debug/splitSquare.build/Objects-normal/i386/main.o /Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/src/main.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/splitSquare.build/Debug/splitSquare.build/Objects-normal/i386/testApp.o /Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/src/testApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/bin/splitSquareDebug.app/Contents/MacOS/splitSquareDebug normal i386
+cPhaseScriptExecution Run\ Script /Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/build/splitSquare.build/Debug/splitSquare.build/Script-E4B6FFFD0C3F9AB9008CF71C.sh
+cPBXCp /Users/jedahan/Dropbox/code/openFrameworks/libs/glut/lib/osx/GLUT.framework bin/splitSquareDebug.app/Contents/Frameworks/GLUT.framework
+cTouch /Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/bin/splitSquareDebug.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c000000005130312F00000000000000AA
+t1362112815
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/SDKSettings.plist
+c00000000523A2B5800000000000004B3
+t1379543896
+s1203
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000523A2B5800000000000001DE
+t1379543896
+s478
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/AGL.framework/AGL
+c00000000523A2B5800000000000082EC
+t1379543896
+s33516
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Accelerate.framework/Accelerate
+c00000000523A2B5800000000000024F0
+t1379543896
+s9456
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vImage.framework/Versions/A/vImage
+c00000000523A2B58000000000000EE9C
+t1379543896
+s61084
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libBLAS.dylib
+c00000000523A2B58000000000001FB78
+t1379543896
+s129912
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libLAPACK.dylib
+c00000000523A2B5800000000000862D0
+t1379543896
+s549584
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libvDSP.dylib
+c00000000523A2B58000000000000D718
+t1379543896
+s55064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libvMisc.dylib
+c00000000523A2B58000000000000EE04
+t1379543896
+s60932
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/AppKit.framework/AppKit
+c00000000523A2B58000000000024BEE4
+t1379543896
+s2408164
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+c00000000523A2B580000000000007C70
+t1379543896
+s31856
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/ATS
+c00000000523A2B580000000000020E90
+t1379543896
+s134800
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ColorSync.framework/Versions/A/ColorSync
+c00000000523A2B58000000000001A05C
+t1379543896
+s106588
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/HIServices
+c00000000523A2B5800000000000359C8
+t1379543896
+s219592
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/LangAnalysis.framework/Versions/A/LangAnalysis
+c00000000523A2B58000000000000CC94
+t1379543896
+s52372
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/PrintCore.framework/Versions/A/PrintCore
+c00000000523A2B58000000000002C318
+t1379543896
+s181016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/QD.framework/Versions/A/QD
+c00000000523A2B5800000000000283C4
+t1379543896
+s164804
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/SpeechSynthesis.framework/Versions/A/SpeechSynthesis
+c00000000523A2B580000000000013F68
+t1379543896
+s81768
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c00000000523A2B580000000000024DD8
+t1379543896
+s151000
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/AudioUnit.framework/AudioUnit
+c00000000523A2B5800000000000060B4
+t1379543896
+s24756
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c00000000523A2B58000000000004BBB8
+t1379543896
+s310200
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Carbon.framework/Carbon
+c00000000523A2B580000000000002B7C
+t1379543896
+s11132
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/CarbonSound.framework/Versions/A/CarbonSound
+c00000000523A2B580000000000004270
+t1379543896
+s17008
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/CommonPanels.framework/Versions/A/CommonPanels
+c00000000523A2B580000000000008C80
+t1379543896
+s35968
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/HIToolbox.framework/Versions/A/HIToolbox
+c00000000523A2B5800000000000A8654
+t1379543896
+s689748
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/HTMLRendering.framework/Versions/A/HTMLRendering
+c00000000523A2B58000000000000809C
+t1379543896
+s32924
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/Help.framework/Versions/A/Help
+c00000000523A2B58000000000000667C
+t1379543896
+s26236
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/ImageCapture.framework/Versions/A/ImageCapture
+c00000000523A2B580000000000017534
+t1379543896
+s95540
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/Ink.framework/Versions/A/Ink
+c00000000523A2B58000000000001F39C
+t1379543896
+s127900
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/NavigationServices.framework/Versions/A/NavigationServices
+c00000000523A2B58000000000000D964
+t1379543896
+s55652
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/OpenScripting.framework/Versions/A/OpenScripting
+c00000000523A2B580000000000010E2C
+t1379543896
+s69164
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/Print.framework/Versions/A/Print
+c00000000523A2B580000000000006E68
+t1379543896
+s28264
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/SecurityHI.framework/Versions/A/SecurityHI
+c00000000523A2B580000000000004EB0
+t1379543896
+s20144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/SpeechRecognition.framework/Versions/A/SpeechRecognition
+c00000000523A2B58000000000000ADB8
+t1379543896
+s44472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+c00000000523A2B5800000000000025C8
+t1379543896
+s9672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreAudio.framework/CoreAudio
+c00000000523A2B58000000000000E9A8
+t1379543896
+s59816
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c00000000523A2B580000000000045D30
+t1379543896
+s286000
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c00000000523A2B58000000000008163C
+t1379543896
+s529980
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000523A2B580000000000087878
+t1379543896
+s555128
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/CoreServices
+c00000000523A2B58000000000000962C
+t1379543896
+s38444
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE
+c00000000523A2B580000000000020624
+t1379543896
+s132644
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/CarbonCore
+c00000000523A2B58000000000006F490
+t1379543896
+s455824
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/DictionaryServices
+c00000000523A2B580000000000016F90
+t1379543896
+s94096
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices
+c00000000523A2B59000000000004546C
+t1379543897
+s283756
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Metadata
+c00000000523A2B58000000000002FA40
+t1379543896
+s195136
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/OSServices.framework/Versions/A/OSServices
+c00000000523A2B590000000000041644
+t1379543897
+s267844
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/SearchKit.framework/Versions/A/SearchKit
+c00000000523A2B59000000000001B5F8
+t1379543897
+s112120
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c00000000523A2B59000000000002E0E4
+t1379543897
+s188644
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c00000000523A2B5900000000000170A4
+t1379543897
+s94372
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000523A2B5900000000000C4BAC
+t1379543897
+s805804
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/IOKit.framework/IOKit
+c00000000523A2B59000000000003E9B8
+t1379543897
+s256440
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
+c00000000523A2B590000000000035AE4
+t1379543897
+s219876
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/OpenGL.framework/OpenGL
+c00000000523A2B59000000000000ADDC
+t1379543897
+s44508
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGL.dylib
+c00000000523A2B590000000000021534
+t1379543897
+s136500
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGLU.dylib
+c00000000523A2B5900000000000052B8
+t1379543897
+s21176
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/QTKit.framework/QTKit
+c00000000523A2B5A0000000000077DF0
+t1379543898
+s490992
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/QuickTime.framework/QuickTime
+c00000000523A2B5A000000000006124C
+t1379543898
+s397900
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/vecLib.framework/vecLib
+c00000000523A2B5A00000000000025EC
+t1379543898
+s9708
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/crt1.10.6.o
+c00000000523A2B5C0000000000002310
+t1379543900
+s8976
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/libSystem.dylib
+c00000000523A2B5C000000000000654C
+t1379543900
+s25932
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/libgcc_s.1.dylib
+c00000000523A2B5C000000000000654C
+t1379543900
+s25932
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/libobjc.A.dylib
+c00000000523A2B5C00000000000143EC
+t1379543900
+s82924
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/libstdc++.dylib
+c00000000523A2B5C000000000009E060
+t1379543900
+s647264
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcache.dylib
+c00000000523A2B5C0000000000004528
+t1379543900
+s17704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcommonCrypto.dylib
+c00000000523A2B5C000000000000EDB8
+t1379543900
+s60856
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcompiler_rt.dylib
+c00000000523A2B5C000000000000984C
+t1379543900
+s38988
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcopyfile.dylib
+c00000000523A2B5C0000000000004FEC
+t1379543900
+s20460
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libdispatch.dylib
+c00000000523A2B5C0000000000009F64
+t1379543900
+s40804
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libdnsinfo.dylib
+c00000000523A2B5C00000000000031D0
+t1379543900
+s12752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libdyld.dylib
+c00000000523A2B5C00000000000052E4
+t1379543900
+s21220
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libkeymgr.dylib
+c00000000523A2B5C0000000000002D34
+t1379543900
+s11572
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/liblaunch.dylib
+c00000000523A2B5C00000000000084E8
+t1379543900
+s34024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libmacho.dylib
+c00000000523A2B5C0000000000004FF4
+t1379543900
+s20468
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libquarantine.dylib
+c00000000523A2B5C00000000000047A4
+t1379543900
+s18340
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libremovefile.dylib
+c00000000523A2B5C0000000000004364
+t1379543900
+s17252
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_blocks.dylib
+c00000000523A2B5C0000000000002EF0
+t1379543900
+s12016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_c.dylib
+c00000000523A2B5C0000000000046BB8
+t1379543900
+s289720
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_dnssd.dylib
+c00000000523A2B5C00000000000067BC
+t1379543900
+s26556
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_info.dylib
+c00000000523A2B5C000000000001AD9C
+t1379543900
+s109980
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_kernel.dylib
+c00000000523A2B5C0000000000016C74
+t1379543900
+s93300
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_m.dylib
+c00000000523A2B5C000000000000F204
+t1379543900
+s61956
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_network.dylib
+c00000000523A2B5C0000000000008EC8
+t1379543900
+s36552
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_notify.dylib
+c00000000523A2B5C0000000000008B14
+t1379543900
+s35604
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_sandbox.dylib
+c00000000523A2B5C00000000000047C0
+t1379543900
+s18368
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libunc.dylib
+c00000000523A2B5C00000000000044D8
+t1379543900
+s17624
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libunwind.dylib
+c00000000523A2B5C00000000000067AC
+t1379543900
+s26540
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libxpc.dylib
+c00000000523A2B5C0000000000011E4C
+t1379543900
+s73292
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.eprintf.a
+c00000000523A2B5D0000000000000720
+t1379543901
+s1824
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.osx.a
+c00000000523A2B5D0000000000001750
+t1379543901
+s5968
+
+N/System/Library/Frameworks/AGL.framework/AGL
+c0000000051C7C48A000000000001A480
+t1372046474
+s107648
+
+N/System/Library/Frameworks/Accelerate.framework/Accelerate
+c0000000052329A5600000000000065B0
+t1379048022
+s26032
+
+N/System/Library/Frameworks/AppKit.framework/AppKit
+c0000000052530F3300000000023F11C0
+t1381175091
+s37687744
+
+N/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+c0000000051C7C454000000000000BAA0
+t1372046420
+s47776
+
+N/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c0000000052329A5700000000003B2500
+t1379048023
+s3876096
+
+N/System/Library/Frameworks/Carbon.framework/Carbon
+c0000000051C7C45600000000000069F0
+t1372046422
+s27120
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c0000000051C7C4570000000000006730
+t1372046423
+s26416
+
+N/System/Library/Frameworks/CoreAudio.framework/CoreAudio
+c0000000052329A58000000000010BB70
+t1379048024
+s1096560
+
+N/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c00000000519F442E0000000000656060
+t1369392174
+s6643808
+
+N/System/Library/Frameworks/CoreServices.framework/CoreServices
+c0000000051C7C45A000000000000D4F0
+t1372046426
+s54512
+
+N/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c0000000051C7C45A0000000000081CB0
+t1372046426
+s531632
+
+N/System/Library/Frameworks/IOKit.framework/IOKit
+c0000000052329A5B0000000000130950
+t1379048027
+s1247568
+
+N/System/Library/Frameworks/OpenGL.framework/OpenGL
+c0000000052329A5E000000000002DAD0
+t1379048030
+s187088
+
+N/System/Library/Frameworks/QTKit.framework/QTKit
+c0000000052329A5E00000000004A2E10
+t1379048030
+s4861456
+
+N/System/Library/Frameworks/QuickTime.framework/QuickTime
+c0000000052329A5F0000000000322E20
+t1379048031
+s3288608
+
+N/Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/bin/splitSquareDebug.app
+t1381529201
+s102
+
+N/Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/bin/splitSquareDebug.app/Contents/Frameworks/GLUT.framework
+t1380815153
+s204
+
+N/Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/bin/splitSquareDebug.app/Contents/Info.plist
+t1380813899
+s1110
+
+N/Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/bin/splitSquareDebug.app/Contents/MacOS/splitSquareDebug
+t1381529206
+s7833244
+
+N/Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/bin/splitSquareDebug.app/Contents/PkgInfo
+t1380813899
+s8
+
+N/Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/build/splitSquare.build/Debug/splitSquare.build/Objects-normal/i386/main.o
+t1381529201
+s98884
+
+N/Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/build/splitSquare.build/Debug/splitSquare.build/Objects-normal/i386/splitSquare.o
+t1381529201
+s103364
+
+N/Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/build/splitSquare.build/Debug/splitSquare.build/Objects-normal/i386/splitSquareDebug.LinkFileList
+c000000005258766F00000000000001B7
+t1381529199
+s439
+
+N/Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/build/splitSquare.build/Debug/splitSquare.build/Objects-normal/i386/testApp.o
+t1381529201
+s121840
+
+N/Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/build/splitSquare.build/Debug/splitSquare.build/Script-E4B6FFFD0C3F9AB9008CF71C.sh
+c000000005258766F00000000000001A5
+t1381529199
+s421
+
+N/Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/openFrameworks-Info.plist
+c00000000524D845C00000000000002A5
+t1380811868
+s677
+
+N/Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/src/main.cpp
+c00000000524D898B000000000000015A
+t1380813195
+s346
+
+N/Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/src/splitSquare.cpp
+c00000000524D942A0000000000000364
+t1380815914
+s868
+
+N/Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/src/splitSquare.h
+c00000000524D943700000000000000E8
+t1380815927
+s232
+
+N/Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/src/testApp.cpp
+c00000000524D8C7700000000000005AC
+t1380813943
+s1452
+
+N/Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/src/testApp.h
+c00000000524D845C00000000000001DC
+t1380811868
+s476
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/cairo/include/cairo/cairo-deprecated.h
+c000000005208D22400000000000021FA
+t1376309796
+s8698
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/cairo/include/cairo/cairo-features.h
+c000000005208D224000000000000031D
+t1376309796
+s797
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/cairo/include/cairo/cairo-pdf.h
+c000000005208D2240000000000000C24
+t1376309796
+s3108
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/cairo/include/cairo/cairo-svg.h
+c000000005208D2240000000000000ADD
+t1376309796
+s2781
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/cairo/include/cairo/cairo-version.h
+c000000005208D2240000000000000094
+t1376309796
+s148
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/cairo/include/cairo/cairo.h
+c000000005208D2240000000000016BCE
+t1376309796
+s93134
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/cairo/lib/osx/cairo-script-interpreter.a
+c000000005208D2240000000000026B18
+t1376309796
+s158488
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/cairo/lib/osx/cairo.a
+c000000005208D224000000000010AD50
+t1376309796
+s1092944
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/cairo/lib/osx/pixman-1.a
+c000000005208D226000000000015F3D8
+t1376309798
+s1438680
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/fmodex/include/fmod.h
+c000000005208D2280000000000028E68
+t1376309800
+s167528
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/fmodex/include/fmod_codec.h
+c000000005208D228000000000000334A
+t1376309800
+s13130
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/fmodex/include/fmod_dsp.h
+c000000005208D228000000000000892F
+t1376309800
+s35119
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/fmodex/include/fmod_errors.h
+c000000005208D2280000000000003408
+t1376309800
+s13320
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/fmodex/include/fmod_memoryinfo.h
+c000000005208D2280000000000003C95
+t1376309800
+s15509
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/fmodex/lib/osx/libfmodex.dylib
+c000000005208D22800000000001DD8CC
+t1376309800
+s1956044
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/glew/include/GL/glew.h
+c000000005208D22A00000000000C1916
+t1376309802
+s792854
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/glew/lib/osx/glew.a
+c000000005208D22A000000000009ECC8
+t1376309802
+s650440
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/glfw/lib/osx/libglfw3.a
+c000000005208D22A0000000000017C38
+t1376309802
+s97336
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/glut/lib/osx/GLUT.framework
+c000000005208D22A00000000000000CC
+t1376309802
+s204
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/glut/lib/osx/GLUT.framework/GLUT
+c000000005208D22A0000000000093570
+t1376309802
+s603504
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/3d/of3dPrimitives.h
+c000000005208D22A000000000000209B
+t1376309802
+s8347
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/3d/of3dUtils.h
+c000000005208D22A00000000000001B2
+t1376309802
+s434
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/3d/ofCamera.h
+c000000005208D22A0000000000000A1A
+t1376309802
+s2586
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/3d/ofEasyCam.h
+c000000005208D22A00000000000007D4
+t1376309802
+s2004
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/3d/ofMesh.h
+c000000005208D22A0000000000001C09
+t1376309802
+s7177
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/3d/ofNode.h
+c000000005208D22A0000000000001454
+t1376309802
+s5204
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/app/ofAppBaseWindow.h
+c000000005208D22A000000000000082C
+t1376309802
+s2092
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/app/ofAppRunner.h
+c000000005208D22A0000000000000A14
+t1376309802
+s2580
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/app/ofBaseApp.h
+c000000005208D22A00000000000008BF
+t1376309802
+s2239
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/communication/ofArduino.h
+c000000005208D22A0000000000004239
+t1376309802
+s16953
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/communication/ofSerial.h
+c000000005208D22A0000000000000D7E
+t1376309802
+s3454
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/events/ofDelegate.h
+c000000005208D22A0000000000001B84
+t1376309802
+s7044
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/events/ofEventUtils.h
+c000000005208D22A0000000000002073
+t1376309802
+s8307
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/events/ofEvents.h
+c000000005208D22A0000000000001DDF
+t1376309802
+s7647
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/gl/ofFbo.h
+c000000005208D22A0000000000001162
+t1376309802
+s4450
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/gl/ofGLProgrammableRenderer.h
+c000000005208D22A00000000000018BA
+t1376309802
+s6330
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/gl/ofGLRenderer.h
+c000000005208D22A0000000000001451
+t1376309802
+s5201
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/gl/ofGLUtils.h
+c000000005208D22A00000000000013ED
+t1376309802
+s5101
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/gl/ofLight.h
+c000000005208D22A000000000000094E
+t1376309802
+s2382
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/gl/ofMaterial.h
+c000000005208D22A00000000000005D2
+t1376309802
+s1490
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/gl/ofShader.h
+c000000005208D22A000000000000153E
+t1376309802
+s5438
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/gl/ofTexture.h
+c000000005208D22A0000000000001CFB
+t1376309802
+s7419
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/gl/ofVbo.h
+c000000005208D22A0000000000000EA1
+t1376309802
+s3745
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/gl/ofVboMesh.h
+c000000005208D22A0000000000000358
+t1376309802
+s856
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/graphics/of3dGraphics.h
+c000000005208D22A0000000000000FEA
+t1376309802
+s4074
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/graphics/ofCairoRenderer.h
+c000000005208D22A0000000000001763
+t1376309802
+s5987
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/graphics/ofGraphics.h
+c000000005208D22A00000000000027B4
+t1376309802
+s10164
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/graphics/ofImage.h
+c000000005208D22A00000000000021C4
+t1376309802
+s8644
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/graphics/ofPath.h
+c000000005208D22A0000000000001AFA
+t1376309802
+s6906
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/graphics/ofPixels.h
+c000000005208D22A000000000000148C
+t1376309802
+s5260
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/graphics/ofPolyline.h
+c000000005208D22A000000000000234E
+t1376309802
+s9038
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/graphics/ofRendererCollection.h
+c000000005208D22A0000000000002CC6
+t1376309802
+s11462
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/graphics/ofTessellator.h
+c000000005208D22A0000000000000459
+t1376309802
+s1113
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/graphics/ofTrueTypeFont.h
+c000000005208D22A0000000000000C65
+t1376309802
+s3173
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/math/ofMath.h
+c000000005208D22A00000000000015DE
+t1376309802
+s5598
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/math/ofMatrix3x3.h
+c000000005208D22A0000000000000BB7
+t1376309802
+s2999
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/math/ofMatrix4x4.h
+c000000005208D22A0000000000006D6A
+t1376309802
+s28010
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/math/ofQuaternion.h
+c000000005208D22A00000000000034A0
+t1376309802
+s13472
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/math/ofVec2f.h
+c000000005208D22A0000000000004343
+t1376309802
+s17219
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/math/ofVec3f.h
+c000000005208D22A00000000000064A7
+t1376309802
+s25767
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/math/ofVec4f.h
+c000000005208D22A0000000000002FCF
+t1376309802
+s12239
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/math/ofVectorMath.h
+c000000005208D22A0000000000000099
+t1376309802
+s153
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/ofMain.h
+c00000000523A6E24000000000000070A
+t1379560996
+s1802
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/sound/ofBaseSoundPlayer.h
+c000000005208D22A0000000000000406
+t1376309802
+s1030
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/sound/ofBaseSoundStream.h
+c000000005208D22A000000000000036D
+t1376309802
+s877
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/sound/ofFmodSoundPlayer.h
+c000000005208D22A00000000000006F4
+t1376309802
+s1780
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/sound/ofRtAudioSoundStream.h
+c000000005208D22A000000000000054A
+t1376309802
+s1354
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/sound/ofSoundPlayer.h
+c000000005208D22A000000000000075B
+t1376309802
+s1883
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/sound/ofSoundStream.h
+c000000005208D22A000000000000073B
+t1376309802
+s1851
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/types/ofBaseTypes.h
+c000000005208D22A00000000000035C7
+t1376309802
+s13767
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/types/ofColor.h
+c000000005208D22A0000000000001CA4
+t1376309802
+s7332
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/types/ofParameter.h
+c000000005208D22A0000000000005A4B
+t1376309802
+s23115
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/types/ofParameterGroup.h
+c000000005208D22A0000000000001042
+t1376309802
+s4162
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/types/ofPoint.h
+c000000005208D22A000000000000003D
+t1376309802
+s61
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/types/ofRectangle.h
+c000000005208D22A0000000000001C5F
+t1376309802
+s7263
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/types/ofTypes.h
+c000000005208D22A00000000000013C2
+t1376309802
+s5058
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/utils/ofConstants.h
+c000000005208D22A00000000000048AB
+t1376309802
+s18603
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/utils/ofFileUtils.h
+c000000005208D22A0000000000002049
+t1376309802
+s8265
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/utils/ofLog.h
+c000000005208D22A0000000000001836
+t1376309802
+s6198
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/utils/ofMatrixStack.h
+c000000005208D22A0000000000000A56
+t1376309802
+s2646
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/utils/ofSystemUtils.h
+c000000005208D22A0000000000000202
+t1376309802
+s514
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/utils/ofThread.h
+c000000005208D22A0000000000001410
+t1376309802
+s5136
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/utils/ofURLFileLoader.h
+c000000005208D22A00000000000008E5
+t1376309802
+s2277
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/utils/ofUtils.h
+c000000005208D22A00000000000017D0
+t1376309802
+s6096
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/utils/ofXml.h
+c000000005208D22A0000000000001F52
+t1376309802
+s8018
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/video/ofQTKitGrabber.h
+c000000005208D22A0000000000000B71
+t1376309802
+s2929
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/video/ofQTKitPlayer.h
+c000000005208D22A000000000000122A
+t1376309802
+s4650
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/video/ofVideoGrabber.h
+c000000005208D22A0000000000000AE6
+t1376309802
+s2790
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/video/ofVideoPlayer.h
+c000000005208D22A0000000000000B95
+t1376309802
+s2965
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a
+c000000005254311C0000000001FEA048
+t1381249308
+s33464392
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/openssl/lib/osx/crypto.a
+c000000005208D22C00000000002655A0
+t1376309804
+s2512288
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/openssl/lib/osx/ssl.a
+c000000005208D22C000000000006EF18
+t1376309804
+s454424
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/AbstractDelegate.h
+c000000005208D22E0000000000000E6B
+t1376309806
+s3691
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/AbstractEvent.h
+c000000005208D22E0000000000005544
+t1376309806
+s21828
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/AbstractPriorityDelegate.h
+c000000005208D22E00000000000009C9
+t1376309806
+s2505
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/ActiveMethod.h
+c000000005208D22E0000000000001C64
+t1376309806
+s7268
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/ActiveResult.h
+c000000005208D22E0000000000002E66
+t1376309806
+s11878
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/ActiveRunnable.h
+c000000005208D22E0000000000001785
+t1376309806
+s6021
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/ActiveStarter.h
+c000000005208D22E0000000000000927
+t1376309806
+s2343
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/Any.h
+c000000005208D22E00000000000020E8
+t1376309806
+s8424
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/AtomicCounter.h
+c000000005208D22E0000000000002138
+t1376309806
+s8504
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/AutoPtr.h
+c000000005208D22E0000000000001E0C
+t1376309806
+s7692
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/AutoReleasePool.h
+c000000005208D22E0000000000000C42
+t1376309806
+s3138
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/Bugcheck.h
+c000000005208D22E00000000000014A9
+t1376309806
+s5289
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/Condition.h
+c000000005208D22E0000000000001236
+t1376309806
+s4662
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/Config.h
+c000000005208D22E0000000000000EA4
+t1376309806
+s3748
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/AbstractContainerNode.h
+c000000005208D22E0000000000000E9C
+t1376309806
+s3740
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/AbstractNode.h
+c000000005208D22E000000000000127B
+t1376309806
+s4731
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/Attr.h
+c000000005208D22E0000000000001E38
+t1376309806
+s7736
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/CharacterData.h
+c000000005208D22E0000000000001233
+t1376309806
+s4659
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/ChildNodesList.h
+c000000005208D22E00000000000008CF
+t1376309806
+s2255
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/DOMException.h
+c000000005208D22E00000000000013B9
+t1376309806
+s5049
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/DOMObject.h
+c000000005208D22E0000000000000E55
+t1376309806
+s3669
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/DOMParser.h
+c000000005208D22E0000000000001005
+t1376309806
+s4101
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/DOMWriter.h
+c000000005208D22E000000000000105D
+t1376309806
+s4189
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/Document.h
+c000000005208D22E0000000000002C58
+t1376309806
+s11352
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/DocumentEvent.h
+c000000005208D22E0000000000000D80
+t1376309806
+s3456
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/DocumentFragment.h
+c000000005208D22E0000000000001153
+t1376309806
+s4435
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/Element.h
+c000000005208D22E000000000000247F
+t1376309806
+s9343
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/Event.h
+c000000005208D22E0000000000001CD3
+t1376309806
+s7379
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/EventTarget.h
+c000000005208D22E0000000000000FEE
+t1376309806
+s4078
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/MutationEvent.h
+c000000005208D22E00000000000015B9
+t1376309806
+s5561
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/NamedNodeMap.h
+c000000005208D22E0000000000001172
+t1376309806
+s4466
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/Node.h
+c000000005208D22E0000000000003276
+t1376309806
+s12918
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/NodeFilter.h
+c000000005208D22E0000000000001A30
+t1376309806
+s6704
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/NodeIterator.h
+c000000005208D22E000000000000189F
+t1376309806
+s6303
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/NodeList.h
+c000000005208D22E0000000000000A81
+t1376309806
+s2689
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/Text.h
+c000000005208D22E0000000000000ECF
+t1376309806
+s3791
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/Event.h
+c000000005208D22E0000000000000E58
+t1376309806
+s3672
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/Event_POSIX.h
+c000000005208D22E0000000000000A91
+t1376309806
+s2705
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/Exception.h
+c000000005208D22E00000000000028B1
+t1376309806
+s10417
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/File.h
+c000000005208D22E0000000000001FCC
+t1376309806
+s8140
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/File_UNIX.h
+c000000005208D22E0000000000000BC1
+t1376309806
+s3009
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/Foundation.h
+c000000005208D22E00000000000010F9
+t1376309806
+s4345
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/FunctionPriorityDelegate.h
+c000000005208D22E0000000000002C69
+t1376309806
+s11369
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/Mutex.h
+c000000005208D22E0000000000001DD6
+t1376309806
+s7638
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/Mutex_POSIX.h
+c000000005208D22E0000000000000AC2
+t1376309806
+s2754
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/NotificationStrategy.h
+c000000005208D22E0000000000000F3F
+t1376309806
+s3903
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/Path.h
+c000000005208D22E00000000000036A0
+t1376309806
+s13984
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/Platform.h
+c000000005208D22E0000000000001CBD
+t1376309806
+s7357
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/Platform_POSIX.h
+c000000005208D22E0000000000000843
+t1376309806
+s2115
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/PriorityDelegate.h
+c000000005208D22E0000000000003516
+t1376309806
+s13590
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/PriorityEvent.h
+c000000005208D22E0000000000000A78
+t1376309806
+s2680
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/PriorityExpire.h
+c000000005208D22E000000000000155B
+t1376309806
+s5467
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/PriorityStrategy.h
+c000000005208D22E00000000000013CE
+t1376309806
+s5070
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/RefCountedObject.h
+c000000005208D22E0000000000000BB1
+t1376309806
+s2993
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/Runnable.h
+c000000005208D22E0000000000000861
+t1376309806
+s2145
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/SAX/ContentHandler.h
+c000000005208D22E000000000000322F
+t1376309806
+s12847
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/SAX/DTDHandler.h
+c000000005208D22E00000000000012A1
+t1376309806
+s4769
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/SAX/LexicalHandler.h
+c000000005208D22E0000000000001975
+t1376309806
+s6517
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/SAX/Locator.h
+c000000005208D22E0000000000001678
+t1376309806
+s5752
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/SAX/NamespaceSupport.h
+c000000005208D22E0000000000002491
+t1376309806
+s9361
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/SAX/SAXException.h
+c000000005208D22E0000000000001BF7
+t1376309806
+s7159
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/SAX/SAXParser.h
+c000000005208D22E00000000000010D3
+t1376309806
+s4307
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/SAX/XMLReader.h
+c000000005208D22E00000000000026EA
+t1376309806
+s9962
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/ScopedLock.h
+c000000005208D22E0000000000000CC5
+t1376309806
+s3269
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/ScopedUnlock.h
+c000000005208D22E000000000000092B
+t1376309806
+s2347
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/SharedPtr.h
+c000000005208D22E0000000000002278
+t1376309806
+s8824
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/SignalHandler.h
+c000000005208D22E0000000000001205
+t1376309806
+s4613
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/SingletonHolder.h
+c000000005208D22E0000000000000A67
+t1376309806
+s2663
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/StreamConverter.h
+c000000005208D22E0000000000001588
+t1376309806
+s5512
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/StreamUtil.h
+c000000005208D22E0000000000000E2F
+t1376309806
+s3631
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/TextEncoding.h
+c000000005208D22E0000000000002078
+t1376309806
+s8312
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/Thread.h
+c000000005208D22E0000000000001E48
+t1376309806
+s7752
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/ThreadPool.h
+c000000005208D22E0000000000001C8A
+t1376309806
+s7306
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/Thread_POSIX.h
+c000000005208D22E00000000000014C0
+t1376309806
+s5312
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/Timestamp.h
+c000000005208D22E0000000000001A41
+t1376309806
+s6721
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/Types.h
+c000000005208D22E0000000000001ABE
+t1376309806
+s6846
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/UnbufferedStreamBuf.h
+c000000005208D22E0000000000001262
+t1376309806
+s4706
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/XML/Name.h
+c000000005208D22E0000000000001200
+t1376309806
+s4608
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/XML/NamePool.h
+c000000005208D22E0000000000000C08
+t1376309806
+s3080
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/XML/ParserEngine.h
+c000000005208D22E000000000000332C
+t1376309806
+s13100
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/XML/XML.h
+c000000005208D22E0000000000000A8A
+t1376309806
+s2698
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/XML/XMLException.h
+c000000005208D22E00000000000007EB
+t1376309806
+s2027
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/XML/XMLStream.h
+c000000005208D22E0000000000000C0A
+t1376309806
+s3082
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/XML/XMLString.h
+c000000005208D22E0000000000000CB6
+t1376309806
+s3254
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/XML/XMLWriter.h
+c000000005208D22E00000000000036CC
+t1376309806
+s14028
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/XML/expat.h
+c000000005208D22E0000000000009D93
+t1376309806
+s40339
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/XML/expat_external.h
+c000000005208D22E0000000000000D24
+t1376309806
+s3364
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/lib/osx/PocoCrypto.a
+c000000005208D23200000000000318D0
+t1376309810
+s202960
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/lib/osx/PocoData.a
+c000000005208D232000000000009CE00
+t1376309810
+s642560
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/lib/osx/PocoDataODBC.a
+c000000005208D2320000000000075160
+t1376309810
+s479584
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/lib/osx/PocoDataSQLite.a
+c000000005208D23200000000000D8010
+t1376309810
+s884752
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/lib/osx/PocoFoundation.a
+c000000005208D232000000000025BAB0
+t1376309810
+s2472624
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/lib/osx/PocoNet.a
+c000000005208D23200000000001A34D8
+t1376309810
+s1717464
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/lib/osx/PocoNetSSL.a
+c000000005208D2320000000000074590
+t1376309810
+s476560
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/lib/osx/PocoUtil.a
+c000000005208D23200000000000907F0
+t1376309810
+s591856
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/lib/osx/PocoXML.a
+c000000005208D23200000000000D9AE8
+t1376309810
+s891624
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/lib/osx/PocoZip.a
+c000000005208D232000000000007A870
+t1376309810
+s501872
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/rtAudio/lib/osx/rtAudio.a
+c000000005208D2440000000000013C00
+t1376309828
+s80896
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/tess2/include/tesselator.h
+c000000005208D2460000000000001C67
+t1376309830
+s7271
+
+N/Users/jedahan/Dropbox/code/openFrameworks/libs/tess2/lib/osx/tess2.a
+c000000005208D2460000000000016E28
+t1376309830
+s93736
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesbd3a13f6ad08b841^836e13f6ad08b841^---0#1#1#--18"Check dependencies36"5D383B02-1D8C-449B-B83B-3401EDC19195-
+
+CCompileC build/splitSquare.build/Debug/splitSquare.build/Objects-normal/i386/main.o /Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/src/main.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s403221999.631951
+e403222001.113407
+r1
+xCompileC
+xbuild/splitSquare.build/Debug/splitSquare.build/Objects-normal/i386/main.o
+x/Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/src/main.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/src/main.cpp
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/ofMain.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/utils/ofConstants.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/glew/include/GL/glew.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/tess2/include/tesselator.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/utils/ofFileUtils.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/File.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/Foundation.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/Config.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/Platform.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/Platform_POSIX.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/Bugcheck.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/Types.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/Timestamp.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/File_UNIX.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/utils/ofLog.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/types/ofTypes.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/types/ofColor.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/math/ofMath.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/types/ofPoint.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/math/ofVec3f.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/math/ofVec2f.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/math/ofVec4f.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/Mutex.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/Exception.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/ScopedLock.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/Mutex_POSIX.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/utils/ofSystemUtils.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/utils/ofThread.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/Thread.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/Thread_POSIX.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/Runnable.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/SignalHandler.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/Event.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/Event_POSIX.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/RefCountedObject.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/AtomicCounter.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/AutoPtr.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/utils/ofURLFileLoader.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/events/ofEvents.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/events/ofEventUtils.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/PriorityEvent.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/AbstractEvent.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/SingletonHolder.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/SharedPtr.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/ActiveResult.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/ActiveMethod.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/ActiveRunnable.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/ActiveStarter.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/ThreadPool.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/PriorityStrategy.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/NotificationStrategy.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/AbstractPriorityDelegate.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/AbstractDelegate.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/PriorityDelegate.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/PriorityExpire.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/FunctionPriorityDelegate.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/events/ofDelegate.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/Condition.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/ScopedUnlock.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/utils/ofUtils.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/Path.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/types/ofBaseTypes.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/types/ofRectangle.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/3d/ofMesh.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/gl/ofGLUtils.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/graphics/ofPixels.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/math/ofMatrix4x4.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/math/ofQuaternion.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/utils/ofXml.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/Document.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/XML/XML.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/AbstractContainerNode.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/AbstractNode.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/Node.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/EventTarget.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/DOMObject.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/XML/XMLString.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/SAX/NamespaceSupport.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/MutationEvent.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/Event.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/DocumentEvent.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/Element.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/XML/Name.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/XML/NamePool.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/AutoReleasePool.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/DocumentFragment.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/DOMParser.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/SAX/SAXParser.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/SAX/XMLReader.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/XML/ParserEngine.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/XML/expat.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/XML/expat_external.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/XML/XMLStream.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/SAX/Locator.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/TextEncoding.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/DOMException.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/XML/XMLException.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/SAX/SAXException.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/XML/XMLWriter.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/SAX/ContentHandler.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/SAX/LexicalHandler.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/SAX/DTDHandler.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/StreamConverter.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/UnbufferedStreamBuf.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/StreamUtil.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/DOMWriter.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/Attr.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/Text.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/CharacterData.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/NodeIterator.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/NodeFilter.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/NamedNodeMap.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/ChildNodesList.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/NodeList.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/types/ofParameter.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/types/ofParameterGroup.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/Any.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/math/ofVectorMath.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/math/ofMatrix3x3.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/communication/ofSerial.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/communication/ofArduino.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/gl/ofFbo.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/gl/ofTexture.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/gl/ofVboMesh.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/gl/ofVbo.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/gl/ofGLRenderer.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/graphics/ofPolyline.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/graphics/ofGraphics.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/utils/ofMatrixStack.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/gl/ofLight.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/3d/ofNode.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/3d/of3dUtils.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/graphics/of3dGraphics.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/3d/of3dPrimitives.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/gl/ofMaterial.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/gl/ofShader.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/app/ofAppBaseWindow.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/gl/ofGLProgrammableRenderer.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/graphics/ofCairoRenderer.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/cairo/include/cairo/cairo-features.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/cairo/include/cairo/cairo-pdf.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/cairo/include/cairo/cairo.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/cairo/include/cairo/cairo-version.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/cairo/include/cairo/cairo-deprecated.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/cairo/include/cairo/cairo-svg.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/graphics/ofPath.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/graphics/ofTessellator.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/graphics/ofImage.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/graphics/ofRendererCollection.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/graphics/ofTrueTypeFont.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/app/ofBaseApp.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/app/ofAppRunner.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/sound/ofSoundStream.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/sound/ofBaseSoundStream.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/sound/ofRtAudioSoundStream.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/sound/ofSoundPlayer.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/sound/ofBaseSoundPlayer.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/sound/ofFmodSoundPlayer.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/fmodex/include/fmod.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/fmodex/include/fmod_codec.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/fmodex/include/fmod_dsp.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/fmodex/include/fmod_memoryinfo.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/fmodex/include/fmod_errors.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/video/ofVideoGrabber.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/video/ofQTKitGrabber.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/video/ofVideoPlayer.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/video/ofQTKitPlayer.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/3d/ofCamera.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/3d/ofEasyCam.h
+d/Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/src/testApp.h
+oclang: warning: -lpthread: 'linker' input unused
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/src/main.cpp156"CompileC build/splitSquare.build/Debug/splitSquare.build/Objects-normal/i386/main.o src/main.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compilerb004a2efad08b841^c0091df1ad08b841^-49"clang: warning: -lpthread: 'linker' input unused-0#0#1#-19%DVTDocumentLocation2@96"file://localhost/Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/src/main.cpp0000000000000000^3330"CompileC build/splitSquare.build/Debug/splitSquare.build/Objects-normal/i386/main.o src/main.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Wno-invalid-offsetof -mmacosx-version-min=10.6 -g -mssse3 -Wno-sign-conversion -I/Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/build/splitSquare.build/Debug/splitSquare.build/splitSquareDebug.hmap -I/Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/bin/include -I../../../libs/openFrameworks -I../../../libs/openFrameworks/3d -I../../../libs/openFrameworks/app -I../../../libs/openFrameworks/communication -I../../../libs/openFrameworks/events -I../../../libs/openFrameworks/gl -I../../../libs/openFrameworks/graphics -I../../../libs/openFrameworks/math -I../../../libs/openFrameworks/sound -I../../../libs/openFrameworks/types -I../../../libs/openFrameworks/utils -I../../../libs/openFrameworks/video -I../../../libs/poco/include -I../../../libs/freetype/include -I../../../libs/freetype/include/freetype2 -I../../../libs/fmodex/include -I../../../libs/glew/include -I../../../libs/FreeImage/include -I../../../libs/tess2/include -I../../../libs/cairo/include/cairo -I../../../libs/rtAudio/include -I../../../libs/glfw/include -I/Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/build/splitSquare.build/Debug/splitSquare.build/DerivedSources/i386 -I/Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/build/splitSquare.build/Debug/splitSquare.build/DerivedSources -F/Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/bin -F/Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/../../../libs/glut/lib/osx -D__MACOSX_CORE__ -lpthread -mtune=native -MMD -MT dependencies -MF /Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/build/splitSquare.build/Debug/splitSquare.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/build/splitSquare.build/Debug/splitSquare.build/Objects-normal/i386/main.dia -c /Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/src/main.cpp -o /Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/build/splitSquare.build/Debug/splitSquare.build/Objects-normal/i386/main.o36"7B7C18F0-47A0-4CB5-BB0F-385BDF244C26-
+b6ACD7F33-F047-4C1D-B5F8-30CEAE21C397
+
+CCompileC build/splitSquare.build/Debug/splitSquare.build/Objects-normal/i386/splitSquare.o /Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/src/splitSquare.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s403221999.632029
+e403222001.138634
+r1
+xCompileC
+xbuild/splitSquare.build/Debug/splitSquare.build/Objects-normal/i386/splitSquare.o
+x/Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/src/splitSquare.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/src/splitSquare.cpp
+d/Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/src/splitSquare.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/ofMain.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/utils/ofConstants.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/glew/include/GL/glew.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/tess2/include/tesselator.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/utils/ofFileUtils.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/File.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/Foundation.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/Config.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/Platform.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/Platform_POSIX.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/Bugcheck.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/Types.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/Timestamp.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/File_UNIX.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/utils/ofLog.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/types/ofTypes.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/types/ofColor.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/math/ofMath.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/types/ofPoint.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/math/ofVec3f.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/math/ofVec2f.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/math/ofVec4f.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/Mutex.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/Exception.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/ScopedLock.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/Mutex_POSIX.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/utils/ofSystemUtils.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/utils/ofThread.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/Thread.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/Thread_POSIX.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/Runnable.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/SignalHandler.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/Event.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/Event_POSIX.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/RefCountedObject.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/AtomicCounter.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/AutoPtr.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/utils/ofURLFileLoader.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/events/ofEvents.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/events/ofEventUtils.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/PriorityEvent.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/AbstractEvent.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/SingletonHolder.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/SharedPtr.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/ActiveResult.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/ActiveMethod.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/ActiveRunnable.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/ActiveStarter.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/ThreadPool.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/PriorityStrategy.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/NotificationStrategy.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/AbstractPriorityDelegate.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/AbstractDelegate.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/PriorityDelegate.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/PriorityExpire.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/FunctionPriorityDelegate.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/events/ofDelegate.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/Condition.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/ScopedUnlock.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/utils/ofUtils.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/Path.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/types/ofBaseTypes.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/types/ofRectangle.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/3d/ofMesh.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/gl/ofGLUtils.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/graphics/ofPixels.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/math/ofMatrix4x4.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/math/ofQuaternion.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/utils/ofXml.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/Document.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/XML/XML.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/AbstractContainerNode.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/AbstractNode.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/Node.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/EventTarget.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/DOMObject.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/XML/XMLString.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/SAX/NamespaceSupport.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/MutationEvent.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/Event.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/DocumentEvent.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/Element.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/XML/Name.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/XML/NamePool.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/AutoReleasePool.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/DocumentFragment.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/DOMParser.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/SAX/SAXParser.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/SAX/XMLReader.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/XML/ParserEngine.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/XML/expat.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/XML/expat_external.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/XML/XMLStream.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/SAX/Locator.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/TextEncoding.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/DOMException.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/XML/XMLException.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/SAX/SAXException.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/XML/XMLWriter.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/SAX/ContentHandler.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/SAX/LexicalHandler.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/SAX/DTDHandler.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/StreamConverter.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/UnbufferedStreamBuf.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/StreamUtil.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/DOMWriter.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/Attr.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/Text.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/CharacterData.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/NodeIterator.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/NodeFilter.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/NamedNodeMap.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/ChildNodesList.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/NodeList.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/types/ofParameter.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/types/ofParameterGroup.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/Any.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/math/ofVectorMath.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/math/ofMatrix3x3.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/communication/ofSerial.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/communication/ofArduino.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/gl/ofFbo.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/gl/ofTexture.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/gl/ofVboMesh.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/gl/ofVbo.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/gl/ofGLRenderer.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/graphics/ofPolyline.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/graphics/ofGraphics.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/utils/ofMatrixStack.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/gl/ofLight.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/3d/ofNode.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/3d/of3dUtils.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/graphics/of3dGraphics.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/3d/of3dPrimitives.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/gl/ofMaterial.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/gl/ofShader.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/app/ofAppBaseWindow.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/gl/ofGLProgrammableRenderer.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/graphics/ofCairoRenderer.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/cairo/include/cairo/cairo-features.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/cairo/include/cairo/cairo-pdf.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/cairo/include/cairo/cairo.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/cairo/include/cairo/cairo-version.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/cairo/include/cairo/cairo-deprecated.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/cairo/include/cairo/cairo-svg.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/graphics/ofPath.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/graphics/ofTessellator.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/graphics/ofImage.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/graphics/ofRendererCollection.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/graphics/ofTrueTypeFont.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/app/ofBaseApp.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/app/ofAppRunner.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/sound/ofSoundStream.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/sound/ofBaseSoundStream.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/sound/ofRtAudioSoundStream.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/sound/ofSoundPlayer.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/sound/ofBaseSoundPlayer.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/sound/ofFmodSoundPlayer.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/fmodex/include/fmod.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/fmodex/include/fmod_codec.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/fmodex/include/fmod_dsp.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/fmodex/include/fmod_memoryinfo.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/fmodex/include/fmod_errors.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/video/ofVideoGrabber.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/video/ofQTKitGrabber.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/video/ofVideoPlayer.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/video/ofQTKitPlayer.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/3d/ofCamera.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/3d/ofEasyCam.h
+oclang: warning: -lpthread: 'linker' input unused
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/src/splitSquare.cpp170"CompileC build/splitSquare.build/Debug/splitSquare.build/Objects-normal/i386/splitSquare.o src/splitSquare.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler2505a2efad08b841^528123f1ad08b841^-49"clang: warning: -lpthread: 'linker' input unused-0#0#1#-19%DVTDocumentLocation2@103"file://localhost/Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/src/splitSquare.cpp0000000000000000^3372"CompileC build/splitSquare.build/Debug/splitSquare.build/Objects-normal/i386/splitSquare.o src/splitSquare.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Wno-invalid-offsetof -mmacosx-version-min=10.6 -g -mssse3 -Wno-sign-conversion -I/Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/build/splitSquare.build/Debug/splitSquare.build/splitSquareDebug.hmap -I/Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/bin/include -I../../../libs/openFrameworks -I../../../libs/openFrameworks/3d -I../../../libs/openFrameworks/app -I../../../libs/openFrameworks/communication -I../../../libs/openFrameworks/events -I../../../libs/openFrameworks/gl -I../../../libs/openFrameworks/graphics -I../../../libs/openFrameworks/math -I../../../libs/openFrameworks/sound -I../../../libs/openFrameworks/types -I../../../libs/openFrameworks/utils -I../../../libs/openFrameworks/video -I../../../libs/poco/include -I../../../libs/freetype/include -I../../../libs/freetype/include/freetype2 -I../../../libs/fmodex/include -I../../../libs/glew/include -I../../../libs/FreeImage/include -I../../../libs/tess2/include -I../../../libs/cairo/include/cairo -I../../../libs/rtAudio/include -I../../../libs/glfw/include -I/Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/build/splitSquare.build/Debug/splitSquare.build/DerivedSources/i386 -I/Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/build/splitSquare.build/Debug/splitSquare.build/DerivedSources -F/Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/bin -F/Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/../../../libs/glut/lib/osx -D__MACOSX_CORE__ -lpthread -mtune=native -MMD -MT dependencies -MF /Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/build/splitSquare.build/Debug/splitSquare.build/Objects-normal/i386/splitSquare.d --serialize-diagnostics /Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/build/splitSquare.build/Debug/splitSquare.build/Objects-normal/i386/splitSquare.dia -c /Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/src/splitSquare.cpp -o /Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/build/splitSquare.build/Debug/splitSquare.build/Objects-normal/i386/splitSquare.o36"B03D3E52-8275-45F7-B557-39B263B0B3FC-
+b6ACD7F33-F047-4C1D-B5F8-30CEAE21C397
+
+CCompileC build/splitSquare.build/Debug/splitSquare.build/Objects-normal/i386/testApp.o /Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/src/testApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s403221999.631960
+e403222001.190097
+r1
+xCompileC
+xbuild/splitSquare.build/Debug/splitSquare.build/Objects-normal/i386/testApp.o
+x/Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/src/testApp.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/src/testApp.cpp
+d/Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/src/testApp.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/ofMain.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/utils/ofConstants.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/glew/include/GL/glew.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/tess2/include/tesselator.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/utils/ofFileUtils.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/File.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/Foundation.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/Config.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/Platform.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/Platform_POSIX.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/Bugcheck.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/Types.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/Timestamp.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/File_UNIX.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/utils/ofLog.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/types/ofTypes.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/types/ofColor.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/math/ofMath.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/types/ofPoint.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/math/ofVec3f.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/math/ofVec2f.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/math/ofVec4f.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/Mutex.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/Exception.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/ScopedLock.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/Mutex_POSIX.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/utils/ofSystemUtils.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/utils/ofThread.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/Thread.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/Thread_POSIX.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/Runnable.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/SignalHandler.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/Event.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/Event_POSIX.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/RefCountedObject.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/AtomicCounter.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/AutoPtr.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/utils/ofURLFileLoader.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/events/ofEvents.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/events/ofEventUtils.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/PriorityEvent.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/AbstractEvent.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/SingletonHolder.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/SharedPtr.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/ActiveResult.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/ActiveMethod.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/ActiveRunnable.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/ActiveStarter.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/ThreadPool.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/PriorityStrategy.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/NotificationStrategy.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/AbstractPriorityDelegate.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/AbstractDelegate.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/PriorityDelegate.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/PriorityExpire.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/FunctionPriorityDelegate.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/events/ofDelegate.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/Condition.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/ScopedUnlock.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/utils/ofUtils.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/Path.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/types/ofBaseTypes.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/types/ofRectangle.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/3d/ofMesh.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/gl/ofGLUtils.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/graphics/ofPixels.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/math/ofMatrix4x4.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/math/ofQuaternion.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/utils/ofXml.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/Document.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/XML/XML.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/AbstractContainerNode.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/AbstractNode.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/Node.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/EventTarget.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/DOMObject.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/XML/XMLString.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/SAX/NamespaceSupport.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/MutationEvent.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/Event.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/DocumentEvent.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/Element.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/XML/Name.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/XML/NamePool.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/AutoReleasePool.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/DocumentFragment.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/DOMParser.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/SAX/SAXParser.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/SAX/XMLReader.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/XML/ParserEngine.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/XML/expat.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/XML/expat_external.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/XML/XMLStream.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/SAX/Locator.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/TextEncoding.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/DOMException.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/XML/XMLException.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/SAX/SAXException.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/XML/XMLWriter.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/SAX/ContentHandler.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/SAX/LexicalHandler.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/SAX/DTDHandler.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/StreamConverter.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/UnbufferedStreamBuf.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/StreamUtil.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/DOMWriter.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/Attr.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/Text.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/CharacterData.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/NodeIterator.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/NodeFilter.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/NamedNodeMap.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/ChildNodesList.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/DOM/NodeList.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/types/ofParameter.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/types/ofParameterGroup.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/include/Poco/Any.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/math/ofVectorMath.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/math/ofMatrix3x3.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/communication/ofSerial.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/communication/ofArduino.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/gl/ofFbo.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/gl/ofTexture.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/gl/ofVboMesh.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/gl/ofVbo.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/gl/ofGLRenderer.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/graphics/ofPolyline.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/graphics/ofGraphics.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/utils/ofMatrixStack.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/gl/ofLight.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/3d/ofNode.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/3d/of3dUtils.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/graphics/of3dGraphics.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/3d/of3dPrimitives.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/gl/ofMaterial.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/gl/ofShader.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/app/ofAppBaseWindow.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/gl/ofGLProgrammableRenderer.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/graphics/ofCairoRenderer.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/cairo/include/cairo/cairo-features.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/cairo/include/cairo/cairo-pdf.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/cairo/include/cairo/cairo.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/cairo/include/cairo/cairo-version.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/cairo/include/cairo/cairo-deprecated.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/cairo/include/cairo/cairo-svg.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/graphics/ofPath.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/graphics/ofTessellator.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/graphics/ofImage.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/graphics/ofRendererCollection.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/graphics/ofTrueTypeFont.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/app/ofBaseApp.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/app/ofAppRunner.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/sound/ofSoundStream.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/sound/ofBaseSoundStream.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/sound/ofRtAudioSoundStream.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/sound/ofSoundPlayer.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/sound/ofBaseSoundPlayer.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/sound/ofFmodSoundPlayer.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/fmodex/include/fmod.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/fmodex/include/fmod_codec.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/fmodex/include/fmod_dsp.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/fmodex/include/fmod_memoryinfo.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/fmodex/include/fmod_errors.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/video/ofVideoGrabber.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/video/ofQTKitGrabber.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/video/ofVideoPlayer.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/video/ofQTKitPlayer.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/3d/ofCamera.h
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworks/3d/ofEasyCam.h
+d/Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/src/splitSquare.h
+oclang: warning: -lpthread: 'linker' input unused
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/src/testApp.cpp162"CompileC build/splitSquare.build/Debug/splitSquare.build/Objects-normal/i386/testApp.o src/testApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compilerb004a2efad08b841^a8aa30f1ad08b841^-49"clang: warning: -lpthread: 'linker' input unused-0#0#1#-19%DVTDocumentLocation2@99"file://localhost/Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/src/testApp.cpp0000000000000000^3348"CompileC build/splitSquare.build/Debug/splitSquare.build/Objects-normal/i386/testApp.o src/testApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Wno-invalid-offsetof -mmacosx-version-min=10.6 -g -mssse3 -Wno-sign-conversion -I/Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/build/splitSquare.build/Debug/splitSquare.build/splitSquareDebug.hmap -I/Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/bin/include -I../../../libs/openFrameworks -I../../../libs/openFrameworks/3d -I../../../libs/openFrameworks/app -I../../../libs/openFrameworks/communication -I../../../libs/openFrameworks/events -I../../../libs/openFrameworks/gl -I../../../libs/openFrameworks/graphics -I../../../libs/openFrameworks/math -I../../../libs/openFrameworks/sound -I../../../libs/openFrameworks/types -I../../../libs/openFrameworks/utils -I../../../libs/openFrameworks/video -I../../../libs/poco/include -I../../../libs/freetype/include -I../../../libs/freetype/include/freetype2 -I../../../libs/fmodex/include -I../../../libs/glew/include -I../../../libs/FreeImage/include -I../../../libs/tess2/include -I../../../libs/cairo/include/cairo -I../../../libs/rtAudio/include -I../../../libs/glfw/include -I/Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/build/splitSquare.build/Debug/splitSquare.build/DerivedSources/i386 -I/Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/build/splitSquare.build/Debug/splitSquare.build/DerivedSources -F/Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/bin -F/Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/../../../libs/glut/lib/osx -D__MACOSX_CORE__ -lpthread -mtune=native -MMD -MT dependencies -MF /Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/build/splitSquare.build/Debug/splitSquare.build/Objects-normal/i386/testApp.d --serialize-diagnostics /Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/build/splitSquare.build/Debug/splitSquare.build/Objects-normal/i386/testApp.dia -c /Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/src/testApp.cpp -o /Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/build/splitSquare.build/Debug/splitSquare.build/Objects-normal/i386/testApp.o36"98F345E9-DA13-47D4-B62F-280168838CE8-
+b6ACD7F33-F047-4C1D-B5F8-30CEAE21C397
+
+CLd /Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/bin/splitSquareDebug.app/Contents/MacOS/splitSquareDebug normal i386
+s403222001.200048
+e403222001.638767
+r1
+xLd
+x/Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/bin/splitSquareDebug.app/Contents/MacOS/splitSquareDebug
+xnormal
+xi386
+d/Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/build/splitSquare.build/Debug/splitSquare.build/Objects-normal/i386/splitSquareDebug.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/crt1.10.6.o
+d/Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/build/splitSquare.build/Debug/splitSquare.build/Objects-normal/i386/splitSquare.o
+d/Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/build/splitSquare.build/Debug/splitSquare.build/Objects-normal/i386/main.o
+d/Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/build/splitSquare.build/Debug/splitSquare.build/Objects-normal/i386/testApp.o
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/lib/osx/PocoCrypto.a
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/lib/osx/PocoData.a
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/lib/osx/PocoDataODBC.a
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/lib/osx/PocoDataSQLite.a
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/lib/osx/PocoFoundation.a
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/lib/osx/PocoNet.a
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/lib/osx/PocoNetSSL.a
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/lib/osx/PocoUtil.a
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/lib/osx/PocoXML.a
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/poco/lib/osx/PocoZip.a
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/tess2/lib/osx/tess2.a
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/glew/lib/osx/glew.a
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/cairo/lib/osx/cairo-script-interpreter.a
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/cairo/lib/osx/cairo.a
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/cairo/lib/osx/pixman-1.a
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/fmodex/lib/osx/libfmodex.dylib
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/rtAudio/lib/osx/rtAudio.a
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openssl/lib/osx/crypto.a
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openssl/lib/osx/ssl.a
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/glfw/lib/osx/libglfw3.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Accelerate.framework/Accelerate
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/QTKit.framework/QTKit
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/glut/lib/osx/GLUT.framework/GLUT
+d/Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/AGL.framework/AGL
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Carbon.framework/Carbon
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreAudio.framework/CoreAudio
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/CoreServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/OpenGL.framework/OpenGL
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/QuickTime.framework/QuickTime
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/AppKit.framework/AppKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/IOKit.framework/IOKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/libstdc++.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.eprintf.a
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vImage.framework/Versions/A/vImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/vecLib.framework/vecLib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libvDSP.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/CarbonSound.framework/Versions/A/CarbonSound
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/CommonPanels.framework/Versions/A/CommonPanels
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/Help.framework/Versions/A/Help
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/HIToolbox.framework/Versions/A/HIToolbox
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/HTMLRendering.framework/Versions/A/HTMLRendering
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/ImageCapture.framework/Versions/A/ImageCapture
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/Ink.framework/Versions/A/Ink
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/NavigationServices.framework/Versions/A/NavigationServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/OpenScripting.framework/Versions/A/OpenScripting
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/Print.framework/Versions/A/Print
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/SecurityHI.framework/Versions/A/SecurityHI
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/SpeechRecognition.framework/Versions/A/SpeechRecognition
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/CarbonCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Metadata
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/OSServices.framework/Versions/A/OSServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/SearchKit.framework/Versions/A/SearchKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/DictionaryServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGLU.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGL.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libdnsinfo.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/AudioUnit.framework/AudioUnit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/libgcc_s.1.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/ATS
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ColorSync.framework/Versions/A/ColorSync
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/HIServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/LangAnalysis.framework/Versions/A/LangAnalysis
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/PrintCore.framework/Versions/A/PrintCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/QD.framework/Versions/A/QD
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/SpeechSynthesis.framework/Versions/A/SpeechSynthesis
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libvMisc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libLAPACK.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libBLAS.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/libobjc.A.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection129"Link /Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/bin/splitSquareDebug.app/Contents/MacOS/splitSquareDebug71"Ld bin/splitSquareDebug.app/Contents/MacOS/splitSquareDebug normal i386375133f1ad08b841^6e86a3f1ad08b841^---0#0#1#--2424"Ld bin/splitSquareDebug.app/Contents/MacOS/splitSquareDebug normal i386    cd /Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/bin -F/Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/bin -F/Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/../../../libs/glut/lib/osx -filelist /Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/build/splitSquare.build/Debug/splitSquare.build/Objects-normal/i386/splitSquareDebug.LinkFileList -mmacosx-version-min=10.6 -dead_strip ../../../libs/poco/lib/osx/PocoCrypto.a ../../../libs/poco/lib/osx/PocoData.a ../../../libs/poco/lib/osx/PocoDataODBC.a ../../../libs/poco/lib/osx/PocoDataSQLite.a ../../../libs/poco/lib/osx/PocoFoundation.a ../../../libs/poco/lib/osx/PocoNet.a ../../../libs/poco/lib/osx/PocoNetSSL.a ../../../libs/poco/lib/osx/PocoUtil.a ../../../libs/poco/lib/osx/PocoXML.a ../../../libs/poco/lib/osx/PocoZip.a ../../../libs/tess2/lib/osx/tess2.a ../../../libs/glew/lib/osx/glew.a ../../../libs/cairo/lib/osx/cairo-script-interpreter.a ../../../libs/cairo/lib/osx/cairo.a ../../../libs/cairo/lib/osx/pixman-1.a ../../../libs/fmodex/lib/osx/libfmodex.dylib ../../../libs/rtAudio/lib/osx/rtAudio.a ../../../libs/openssl/lib/osx/crypto.a ../../../libs/openssl/lib/osx/ssl.a ../../../libs/glfw/lib/osx/libglfw3.a -framework Accelerate -framework QTKit -framework GLUT /Users/jedahan/Dropbox/code/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a -framework AGL -framework ApplicationServices -framework AudioToolbox -framework Carbon -framework CoreAudio -framework CoreFoundation -framework CoreServices -framework OpenGL -framework QuickTime -framework AppKit -framework Cocoa -framework IOKit -framework CoreVideo -Xlinker -dependency_info -Xlinker /Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/build/splitSquare.build/Debug/splitSquare.build/Objects-normal/i386/splitSquareDebug_dependency_info.dat -o /Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/bin/splitSquareDebug.app/Contents/MacOS/splitSquareDebug36"16CF3C23-BAD3-462E-AEB5-042A1AE2FB64-
+b6ACD7F33-F047-4C1D-B5F8-30CEAE21C397
+
+CPBXCp /Users/jedahan/Dropbox/code/openFrameworks/libs/glut/lib/osx/GLUT.framework bin/splitSquareDebug.app/Contents/Frameworks/GLUT.framework
+r0
+
+CPhaseScriptExecution Run\ Script /Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/build/splitSquare.build/Debug/splitSquare.build/Script-E4B6FFFD0C3F9AB9008CF71C.sh
+s403222006.088510
+e403222006.118430
+r1
+xPhaseScriptExecution
+xRun Script
+x/Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/build/splitSquare.build/Debug/splitSquare.build/Script-E4B6FFFD0C3F9AB9008CF71C.sh
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Run custom shell script 'Run Script'115"PhaseScriptExecution Run\ Script build/splitSquare.build/Debug/splitSquare.build/Script-E4B6FFFD0C3F9AB9008CF71C.shed6117f6ad08b841^e7501ef6ad08b841^---0#0#1#--27511"PhaseScriptExecution Run\ Script build/splitSquare.build/Debug/splitSquare.build/Script-E4B6FFFD0C3F9AB9008CF71C.sh    cd /Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare    setenv ACTION build    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER jedahan    setenv ALWAYS_SEARCH_USER_PATHS YES    setenv ALWAYS_USE_SEPARATE_HEADERMAPS YES    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS i386    setenv ARCHS_STANDARD x86_64    setenv ARCHS_STANDARD_32_64_BIT "x86_64 i386"    setenv ARCHS_STANDARD_32_BIT i386    setenv ARCHS_STANDARD_64_BIT x86_64    setenv ARCHS_STANDARD_INCLUDING_64_BIT x86_64    setenv AVAILABLE_PLATFORMS "iphonesimulator macosx iphoneos"    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/build    setenv BUILD_ROOT /Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/build    setenv BUILD_STYLE     setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/bin    setenv CACHE_ROOT /var/folders/tn/hz8k17fj5430qxj67nh5y3680000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode    setenv CCHROOT /var/folders/tn/hz8k17fj5430qxj67nh5y3680000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLASS_FILE_DIR /Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/build/splitSquare.build/Debug/splitSquare.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/bin/splitSquareDebug.app    setenv CODE_SIGNING_ALLOWED YES    setenv COLOR_DIAGNOSTICS NO    setenv COMBINE_HIDPI_IMAGES YES    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/tn/hz8k17fj5430qxj67nh5y3680000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/CompositeSDKs    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR /Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/bin    setenv CONFIGURATION_TEMP_DIR /Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/build/splitSquare.build/Debug    setenv CONTENTS_FOLDER_PATH splitSquareDebug.app/Contents    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP NO    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CREATE_INFOPLIST_SECTION_IN_BINARY NO    setenv CURRENT_ARCH i386    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING YES    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf    setenv DEFAULT_COMPILER com.apple.compilers.llvm.clang.1_0    setenv DEFAULT_KEXT_INSTALL_PATH /System/Library/Extensions    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/build/splitSquare.build/Debug/splitSquare.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/build/splitSquare.build/Debug/splitSquare.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/build/splitSquare.build/Debug/splitSquare.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Applications/Xcode.app/Contents/Developer/Applications    setenv DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/usr/bin    setenv DEVELOPER_DIR /Applications/Xcode.app/Contents/Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Applications/Xcode.app/Contents/Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED /Applications/Xcode.app/Contents/Developer/Library/Frameworks    setenv DEVELOPER_LIBRARY_DIR /Applications/Xcode.app/Contents/Developer/Library    setenv DEVELOPER_SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Applications/Xcode.app/Contents/Developer/Tools    setenv DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DOCUMENTATION_FOLDER_PATH splitSquareDebug.app/Contents/Resources/English.lproj/Documentation    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/splitSquare.dst    setenv DT_TOOLCHAIN_DIR /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain    setenv DWARF_DSYM_FILE_NAME splitSquareDebug.app.dSYM    setenv DWARF_DSYM_FILE_SHOULD_ACCOMPANY_PRODUCT NO    setenv DWARF_DSYM_FOLDER_PATH /Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/bin    setenv EMBEDDED_PROFILE_NAME embedded.provisionprofile    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".DS_Store .svn .git .hg CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) .DS_Store CVS .svn .git .hg *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLES_FOLDER_PATH splitSquareDebug.app/Contents/Executables    setenv EXECUTABLE_FOLDER_PATH splitSquareDebug.app/Contents/MacOS    setenv EXECUTABLE_NAME splitSquareDebug    setenv EXECUTABLE_PATH splitSquareDebug.app/Contents/MacOS/splitSquareDebug    setenv FILE_LIST /Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/build/splitSquare.build/Debug/splitSquare.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/build/splitSquare.build/Debug/splitSquare.build/FixedFiles    setenv FRAMEWORKS_FOLDER_PATH splitSquareDebug.app/Contents/Frameworks    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "/Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/bin  \"/Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/../../../libs/glut/lib/osx\""    setenv FRAMEWORK_SEARCH_PATHS_QUOTED_FOR_TARGET_1 "\"/Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/../../../libs/glut/lib/osx\""    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME splitSquareDebug.app    setenv GCC3_VERSION 3.3    setenv GCC_AUTO_VECTORIZATION YES    setenv GCC_DYNAMIC_NO_PIC NO    setenv GCC_ENABLE_SSE3_EXTENSIONS YES    setenv GCC_ENABLE_SUPPLEMENTAL_SSE3_INSTRUCTIONS YES    setenv GCC_GENERATE_DEBUGGING_SYMBOLS YES    setenv GCC_INLINES_ARE_PRIVATE_EXTERN NO    setenv GCC_MODEL_TUNING NONE    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_SYMBOLS_PRIVATE_EXTERN NO    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION com.apple.compilers.llvm.clang.1_0    setenv GCC_VERSION_IDENTIFIER com_apple_compilers_llvm_clang_1_0    setenv GCC_WARN_ABOUT_DEPRECATED_FUNCTIONS YES    setenv GCC_WARN_ABOUT_INVALID_OFFSETOF_MACRO NO    setenv GCC_WARN_ALLOW_INCOMPLETE_PROTOCOL NO    setenv GCC_WARN_UNINITIALIZED_AUTOS NO    setenv GCC_WARN_UNUSED_VALUE NO    setenv GCC_WARN_UNUSED_VARIABLE NO    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE YES    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_CAIRO "\"../../../libs/cairo/include/cairo\""    setenv HEADER_FMODEX "\"../../../libs/fmodex/include\""    setenv HEADER_FREEIMAGE "\"../../../libs/FreeImage/include\""    setenv HEADER_FREETYPE "\"../../../libs/freetype/include\""    setenv HEADER_FREETYPE2 "\"../../../libs/freetype/include/freetype2\""    setenv HEADER_GLEW "\"../../../libs/glew/include\""    setenv HEADER_GLFW "\"../../../libs/glfw/include\""    setenv HEADER_OF "\"../../../libs/openFrameworks/**\""    setenv HEADER_POCO "\"../../../libs/poco/include\""    setenv HEADER_RTAUDIO "\"../../../libs/rtAudio/include\""    setenv HEADER_SEARCH_PATHS "/Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/bin/include \"../../../libs/openFrameworks/**\" \"../../../libs/poco/include\" \"../../../libs/freetype/include\" \"../../../libs/freetype/include/freetype2\" \"../../../libs/fmodex/include\" \"../../../libs/glew/include\" \"../../../libs/FreeImage/include\" \"../../../libs/tess2/include\" \"../../../libs/cairo/include/cairo\" \"../../../libs/rtAudio/include\" \"../../../libs/glfw/include\""    setenv HEADER_TESS2 "\"../../../libs/tess2/include\""    setenv ICON icon-debug.icns    setenv ICONV /usr/bin/iconv    setenv ICON_FILE ../../../libs/openFrameworksCompiled/project/osx/icon-debug.icns    setenv ICON_FILE_PATH ../../../libs/openFrameworksCompiled/project/osx/    setenv ICON_NAME_DEBUG icon-debug.icns    setenv ICON_NAME_RELEASE icon.icns    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_FILE openFrameworks-Info.plist    setenv INFOPLIST_OUTPUT_FORMAT same-as-input    setenv INFOPLIST_PATH splitSquareDebug.app/Contents/Info.plist    setenv INFOPLIST_PREPROCESS NO    setenv INFOSTRINGS_PATH splitSquareDebug.app/Contents/Resources/English.lproj/InfoPlist.strings    setenv INSTALL_DIR /tmp/splitSquare.dst/Users/jedahan/Applications    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER jedahan    setenv INSTALL_PATH /Users/jedahan/Applications    setenv INSTALL_ROOT /tmp/splitSquare.dst    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FOLDER_PATH splitSquareDebug.app/Contents/Resources/Java    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_DEPENDENCY_INFO_FILE /Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/build/splitSquare.build/Debug/splitSquare.build/Objects-normal/i386/splitSquareDebug_dependency_info.dat    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/build/splitSquare.build/Debug/splitSquare.build/splitSquareDebug-LinkMap-normal-i386.txt    setenv LD_NO_PIE NO    setenv LD_QUOTE_LINKER_ARGUMENTS_FOR_COMPILER_DRIVER YES    setenv LEGACY_DEVELOPER_DIR /Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer    setenv LEX lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_KEXT_INSTALL_PATH /Library/Extensions    setenv LIBRARY_SEARCH_PATHS "/Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/bin                                                              "    setenv LIB_CAIRO1 "\"../../../libs/cairo/lib/osx/cairo-script-interpreter.a\""    setenv LIB_CAIRO2 "\"../../../libs/cairo/lib/osx/cairo.a\""    setenv LIB_CAIRO3 "\"../../../libs/cairo/lib/osx/pixman-1.a\""    setenv LIB_FMODEX "\"../../../libs/fmodex/lib/osx/libfmodex.dylib\""    setenv LIB_FREEIMAGE "\"../../../libs/FreeImage/lib/osx/freeimage.a\""    setenv LIB_FREETYPE "\"../../../libs/freetype/lib/osx/freetype.a\""    setenv LIB_GLEW "\"../../../libs/glew/lib/osx/glew.a\""    setenv LIB_GLFW "\"../../../libs/glfw/lib/osx/libglfw3.a\""    setenv LIB_GLUT "\"../../../libs/glut/lib/osx/GLUT.framework/Versions/A/GLUT\""    setenv LIB_OPENSSL1 "\"../../../libs/openssl/lib/osx/crypto.a\""    setenv LIB_OPENSSL2 "\"../../../libs/openssl/lib/osx/ssl.a\""    setenv LIB_POCO_1 "\"../../../libs/poco/lib/osx/PocoCrypto.a\""    setenv LIB_POCO_10 "\"../../../libs/poco/lib/osx/PocoZip.a\""    setenv LIB_POCO_2 "\"../../../libs/poco/lib/osx/PocoData.a\""    setenv LIB_POCO_3 "\"../../../libs/poco/lib/osx/PocoDataODBC.a\""    setenv LIB_POCO_4 "\"../../../libs/poco/lib/osx/PocoDataSQLite.a\""    setenv LIB_POCO_5 "\"../../../libs/poco/lib/osx/PocoFoundation.a\""    setenv LIB_POCO_6 "\"../../../libs/poco/lib/osx/PocoNet.a\""    setenv LIB_POCO_7 "\"../../../libs/poco/lib/osx/PocoNetSSL.a\""    setenv LIB_POCO_8 "\"../../../libs/poco/lib/osx/PocoUtil.a\""    setenv LIB_POCO_9 "\"../../../libs/poco/lib/osx/PocoXML.a\""    setenv LIB_RTAUDIO "\"../../../libs/rtAudio/lib/osx/rtAudio.a\""    setenv LIB_TESS "\"../../../libs/tess2/lib/osx/tess2.a\""    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_i386 /Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/build/splitSquare.build/Debug/splitSquare.build/Objects-normal/i386/splitSquareDebug.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCALIZED_RESOURCES_FOLDER_PATH splitSquareDebug.app/Contents/Resources/English.lproj    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE mh_execute    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv MAC_OS_X_PRODUCT_BUILD_VERSION 12F45    setenv MAC_OS_X_VERSION_ACTUAL 1085    setenv MAC_OS_X_VERSION_MAJOR 1080    setenv MAC_OS_X_VERSION_MINOR 0805    setenv MODULE_CACHE_DIR /var/folders/tn/hz8k17fj5430qxj67nh5y3680000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/ModuleCache    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJECT_FILE_DIR /Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/build/splitSquare.build/Debug/splitSquare.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/build/splitSquare.build/Debug/splitSquare.build/Objects-normal    setenv OBJROOT /Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/build    setenv OF_CORE_HEADERS "\"../../../libs/openFrameworks/**\" \"../../../libs/poco/include\" \"../../../libs/freetype/include\" \"../../../libs/freetype/include/freetype2\" \"../../../libs/fmodex/include\" \"../../../libs/glew/include\" \"../../../libs/FreeImage/include\" \"../../../libs/tess2/include\" \"../../../libs/cairo/include/cairo\" \"../../../libs/rtAudio/include\" \"../../../libs/glfw/include\""    setenv OF_CORE_LIBS "\"../../../libs/poco/lib/osx/PocoCrypto.a\" \"../../../libs/poco/lib/osx/PocoData.a\" \"../../../libs/poco/lib/osx/PocoDataODBC.a\" \"../../../libs/poco/lib/osx/PocoDataSQLite.a\" \"../../../libs/poco/lib/osx/PocoFoundation.a\" \"../../../libs/poco/lib/osx/PocoNet.a\" \"../../../libs/poco/lib/osx/PocoNetSSL.a\" \"../../../libs/poco/lib/osx/PocoUtil.a\" \"../../../libs/poco/lib/osx/PocoXML.a\" \"../../../libs/poco/lib/osx/PocoZip.a\" \"../../../libs/tess2/lib/osx/tess2.a\" \"../../../libs/glew/lib/osx/glew.a\" \"../../../libs/cairo/lib/osx/cairo-script-interpreter.a\" \"../../../libs/cairo/lib/osx/cairo.a\" \"../../../libs/cairo/lib/osx/pixman-1.a\" \"../../../libs/fmodex/lib/osx/libfmodex.dylib\" \"../../../libs/rtAudio/lib/osx/rtAudio.a\" \"../../../libs/openssl/lib/osx/crypto.a\" \"../../../libs/openssl/lib/osx/ssl.a\" \"../../../libs/glfw/lib/osx/libglfw3.a\""    setenv OF_PATH ../../..    setenv ONLY_ACTIVE_ARCH NO    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_CPLUSPLUSFLAGS "-D__MACOSX_CORE__ -lpthread -mtune=native"    setenv OTHER_LDFLAGS "\"../../../libs/poco/lib/osx/PocoCrypto.a\" \"../../../libs/poco/lib/osx/PocoData.a\" \"../../../libs/poco/lib/osx/PocoDataODBC.a\" \"../../../libs/poco/lib/osx/PocoDataSQLite.a\" \"../../../libs/poco/lib/osx/PocoFoundation.a\" \"../../../libs/poco/lib/osx/PocoNet.a\" \"../../../libs/poco/lib/osx/PocoNetSSL.a\" \"../../../libs/poco/lib/osx/PocoUtil.a\" \"../../../libs/poco/lib/osx/PocoXML.a\" \"../../../libs/poco/lib/osx/PocoZip.a\" \"../../../libs/tess2/lib/osx/tess2.a\" \"../../../libs/glew/lib/osx/glew.a\" \"../../../libs/cairo/lib/osx/cairo-script-interpreter.a\" \"../../../libs/cairo/lib/osx/cairo.a\" \"../../../libs/cairo/lib/osx/pixman-1.a\" \"../../../libs/fmodex/lib/osx/libfmodex.dylib\" \"../../../libs/rtAudio/lib/osx/rtAudio.a\" \"../../../libs/openssl/lib/osx/crypto.a\" \"../../../libs/openssl/lib/osx/ssl.a\" \"../../../libs/glfw/lib/osx/libglfw3.a\""    setenv PACKAGE_TYPE com.apple.package-type.wrapper.application    setenv PASCAL_STRINGS YES    setenv PATH "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/Users/jedahan/.deliver/bin:/usr/local/share/npm/bin:/Users/jedahan/.gem/ruby/2.0.0:/usr/local/Cellar/ruby/2.0.0-p247/lib/ruby/gems/2.0.0/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/usr/sbin:/bin:/sbin:/opt/X11/bin"    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Applications/Xcode.app/Contents/Developer/Headers /Applications/Xcode.app/Contents/Developer/SDKs /Applications/Xcode.app/Contents/Developer/Platforms"    setenv PBDEVELOPMENTPLIST_PATH splitSquareDebug.app/Contents/pbdevelopment.plist    setenv PFE_FILE_C_DIALECTS c++    setenv PKGINFO_FILE_PATH /Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/build/splitSquare.build/Debug/splitSquare.build/PkgInfo    setenv PKGINFO_PATH splitSquareDebug.app/Contents/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Applications/Xcode.app/Contents/Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Applications/Xcode.app/Contents/Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Applications/Xcode.app/Contents/Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/usr    setenv PLATFORM_DIR /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform    setenv PLATFORM_NAME macosx    setenv PLATFORM_PREFERRED_ARCH x86_64    setenv PLATFORM_PRODUCT_BUILD_VERSION 5A1413    setenv PLIST_FILE_OUTPUT_FORMAT same-as-input    setenv PLUGINS_FOLDER_PATH splitSquareDebug.app/Contents/PlugIns    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/build/splitSquare.build/Debug/splitSquare.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH splitSquareDebug.app/Contents/PrivateHeaders    setenv PRODUCT_NAME splitSquareDebug    setenv PRODUCT_SETTINGS_PATH /Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/openFrameworks-Info.plist    setenv PRODUCT_TYPE com.apple.product-type.application    setenv PROFILING_CODE NO    setenv PROJECT splitSquare    setenv PROJECT_DERIVED_FILE_DIR /Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/build/splitSquare.build/DerivedSources    setenv PROJECT_DIR /Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare    setenv PROJECT_FILE_PATH /Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/splitSquare.xcodeproj    setenv PROJECT_NAME splitSquare    setenv PROJECT_TEMP_DIR /Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/build/splitSquare.build    setenv PROJECT_TEMP_ROOT /Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/build    setenv PUBLIC_HEADERS_FOLDER_PATH splitSquareDebug.app/Contents/Headers    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_GIT_FROM_RESOURCES YES    setenv REMOVE_HG_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REZ_COLLECTOR_DIR /Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/build/splitSquare.build/Debug/splitSquare.build/ResourceManagerResources    setenv REZ_OBJECTS_DIR /Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/build/splitSquare.build/Debug/splitSquare.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "/Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/bin "    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPTS_FOLDER_PATH splitSquareDebug.app/Contents/Resources/Scripts    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk    setenv SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk    setenv SDK_NAME macosx10.8    setenv SDK_PRODUCT_BUILD_VERSION 12D75    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP NO    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHARED_DERIVED_FILE_DIR /Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/bin/DerivedSources    setenv SHARED_FRAMEWORKS_FOLDER_PATH splitSquareDebug.app/Contents/SharedFrameworks    setenv SHARED_PRECOMPS_DIR /var/folders/tn/hz8k17fj5430qxj67nh5y3680000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders    setenv SHARED_SUPPORT_FOLDER_PATH splitSquareDebug.app/Contents/SharedSupport    setenv SKIP_INSTALL NO    setenv SOURCE_ROOT /Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare    setenv SRCROOT /Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare    setenv STRINGS_FILE_OUTPUT_ENCODING UTF-16    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE all    setenv SUPPORTED_PLATFORMS macosx    setenv SYMROOT /Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/build    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Applications/Xcode.app/Contents/Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Applications/Xcode.app/Contents/Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Applications/Xcode.app/Contents/Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Applications/Xcode.app/Contents/Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_KEXT_INSTALL_PATH /System/Library/Extensions    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETNAME splitSquare    setenv TARGET_BUILD_DIR /Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/bin    setenv TARGET_NAME splitSquare    setenv TARGET_TEMP_DIR /Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/build/splitSquare.build/Debug/splitSquare.build    setenv TEMP_DIR /Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/build/splitSquare.build/Debug/splitSquare.build    setenv TEMP_FILES_DIR /Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/build/splitSquare.build/Debug/splitSquare.build    setenv TEMP_FILE_DIR /Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/build/splitSquare.build/Debug/splitSquare.build    setenv TEMP_ROOT /Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/build    setenv TOOLCHAINS com.apple.dt.toolchain.XcodeDefault    setenv UID 501    setenv UNLOCALIZED_RESOURCES_FOLDER_PATH splitSquareDebug.app/Contents/Resources    setenv UNSTRIPPED_PRODUCT NO    setenv USER jedahan    setenv USER_APPS_DIR /Users/jedahan/Applications    setenv USER_LIBRARY_DIR /Users/jedahan/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS "i386 x86_64"    setenv VERBOSE_PBXCP NO    setenv VERSIONPLIST_PATH splitSquareDebug.app/Contents/version.plist    setenv VERSION_INFO_BUILDER jedahan    setenv VERSION_INFO_FILE splitSquareDebug_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:splitSquareDebug  PROJECT:splitSquare-\""    setenv WRAPPER_EXTENSION app    setenv WRAPPER_NAME splitSquareDebug.app    setenv WRAPPER_SUFFIX .app    setenv XCODE_APP_SUPPORT_DIR /Applications/Xcode.app/Contents/Developer/Library/Xcode    setenv XCODE_PRODUCT_BUILD_VERSION 5A1413    setenv XCODE_VERSION_ACTUAL 0500    setenv XCODE_VERSION_MAJOR 0500    setenv XCODE_VERSION_MINOR 0500    setenv XPCSERVICES_FOLDER_PATH splitSquareDebug.app/Contents/XPCServices    setenv YACC yacc    setenv arch i386    setenv openFrameworks /Users/jedahan/Dropbox/code/of_v0.8.0_osx_release/libs/openFrameworks    setenv variant normal    /bin/sh -c /Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/build/splitSquare.build/Debug/splitSquare.build/Script-E4B6FFFD0C3F9AB9008CF71C.sh36"83B3BE2A-222E-4E41-9D05-A931CF32716F-
+bC328A395-321D-43B4-8A01-D2D9F6F587A6
+
+CProcessInfoPlistFile /Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/bin/splitSquareDebug.app/Contents/Info.plist /Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/openFrameworks-Info.plist
+r0
+
+CTouch /Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/bin/splitSquareDebug.app
+s403222006.128344
+e403222006.133893
+r1
+xTouch
+x/Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/bin/splitSquareDebug.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Touch /Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/bin/splitSquareDebug.app30"Touch bin/splitSquareDebug.app3ee920f6ad08b841^8d4622f6ad08b841^---0#0#1#--221"Touch bin/splitSquareDebug.app    cd /Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare    /usr/bin/touch -c /Users/jedahan/Dropbox/code/openFrameworks/apps/scratch/splitSquare/bin/splitSquareDebug.app36"2C6DAEC4-6717-4741-94EF-9D0F5884D851-
+bC328A395-321D-43B4-8A01-D2D9F6F587A6
+
